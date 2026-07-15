@@ -15,10 +15,9 @@
 
 - 🎓 Estudiante de último año de **Ingeniería de Sistemas** en la Universidad Distrital Francisco José de Caldas
 - 🤖 Desarrollo soluciones de **automatización (RPA)** con Python: extracción de datos, bots, orquestación de flujos
-- 📈 En **TMF Group** reduje **67 horas/mes** de trabajo manual construyendo herramientas de extracción y validación de datos
+
 - 🧠 Certificado **Lean Six Sigma White Belt** — me gusta combinar desarrollo técnico con mejora de procesos
 - 💼 **Disponible para proyectos freelance y oportunidades laborales** — automatización, Python, desarrollo web
-- 🌱 Actualmente construyendo proyectos de **networking** (monitoreo de tráfico LAN, detección de intrusos)
 - 🗣️ Español (nativo) · Inglés (B1-B2) · Portugués (básico)
 
 <br/>
