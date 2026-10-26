@@ -1,101 +1,94 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=220&section=header&text=Andr%C3%A9s%20Vanegas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Python%20%26%20Automation%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=210&section=header&text=Andr%C3%A9s%20Vanegas&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Automation%20%7C%20Web%20Development&descSize=17&descAlignY=58" width="100%" alt="Andrés Vanegas — Python, Automation and Web Development"/>
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p>
+  <strong>Ingeniería de Sistemas · Automatización de procesos · Desarrollo web</strong>
+</p>
+
 <a href="mailto:afvanegas552004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contactarme-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Contactarme por correo"/>
+</a>
+<a href="https://github.com/andres-vanegas-dev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mi perfil de GitHub"/>
 </a>
 
 </div>
+
+---
 
 ## 👋 Sobre mí
 
-- 🎓 Estudiante de último año de **Ingeniería de Sistemas** en la Universidad Distrital Francisco José de Caldas
-- 🤖 Desarrollo soluciones de **automatización (RPA)** con Python: extracción de datos, bots, orquestación de flujos
+Soy estudiante de último año de **Ingeniería de Sistemas en la Universidad Distrital Francisco José de Caldas**. Me interesa construir soluciones que reduzcan el trabajo manual, mejoren los procesos y faciliten el manejo de datos.
 
-- 🧠 Certificado **Lean Six Sigma White Belt** — me gusta combinar desarrollo técnico con mejora de procesos
-- 💼 **Disponible para proyectos freelance y oportunidades laborales** — automatización, Python, desarrollo web
-- 🗣️ Español (nativo) · Inglés (B1-B2) · Portugués (básico)
+- **Automatización:** desarrollo de herramientas en Python para extraer, procesar y validar información.
+- **Desarrollo web:** construcción de interfaces con React y aplicaciones con Python.
+- **Mejora de procesos:** certificado Lean Six Sigma White Belt, con enfoque en eficiencia y mejora continua.
 
-<br/>
+Una de mis automatizaciones permitió ahorrar **67 horas de trabajo manual al mes** en un proceso contable.
 
-## 🛠️ Tech Stack
+Actualmente estoy abierto a oportunidades laborales y proyectos relacionados con Python, automatización y desarrollo de software.
 
-<div align="center">
+🌎 **Idiomas:** Español nativo · Inglés B1–B2 · Portugués básico.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🛠️ Tecnologías
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Automatización y datos**
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-2560E0?style=flat-square&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate"/>
+  <img src="https://img.shields.io/badge/Alteryx-0078C8?style=flat-square" alt="Alteryx"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
 
-<br/>
+**Desarrollo web y herramientas**
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 ## 🚀 Proyectos destacados
 
-<div align="center">
+### [MisLukas](https://github.com/andres-vanegas-dev/Mis-lukas)
+Aplicación web de educación financiera y control de gastos dirigida a estudiantes de Ingeniería de Sistemas.
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NetMonitor-LAN&theme=tokyonight&hide_border=true" width="47%" />
+`React` `Vite` `JavaScript`
+
+### [MiBalance — Frontend](https://github.com/andres-vanegas-dev/mi-balance-frontend)
+Interfaz web para una aplicación de finanzas personales, enfocada en la consulta y visualización de ingresos y gastos.
+
+`React` `JavaScript`
+
+### [MiBalance — Backend](https://github.com/andres-vanegas-dev/mi-balance-backend)
+API para gestionar los ingresos y gastos de la aplicación de finanzas personales.
+
+`Python` `FastAPI`
+
+### [WAF](https://github.com/andres-vanegas-dev/WAF)
+Proyecto académico de seguridad web orientado a experimentar con reglas configurables para inspeccionar y filtrar solicitudes.
+
+`React` `JavaScript` `Seguridad web`
+
+---
+
+## 📫 Contacto
+
+¿Tienes una oportunidad o un proyecto relacionado con automatización o desarrollo de software?
+
+<a href="mailto:afvanegas552004@gmail.com">
+  <img src="https://img.shields.io/badge/afvanegas552004%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Correo electrónico"/>
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=erp-extraction-workflow&theme=tokyonight&hide_border=true" width="47%" />
-</a>
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=pdf-data-validator&theme=tokyonight&hide_border=true" width="47%" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=task-manager-react&theme=tokyonight&hide_border=true" width="47%" />
-</a>
-
-</div>
-
-> 💡 Reemplaza `TU_USUARIO` y los nombres de `repo` por los tuyos reales una vez subas los proyectos, o bórralos si aún no están públicos.
-
-**NetMonitor LAN** — Sistema de monitoreo de tráfico LAN y detección de intrusos en tiempo real (Python/FastAPI, Scapy, React, SQLite, Docker).
-
-**ERP Document Extraction & Reporting Workflow** — Automatización full-cycle: bot en Python/Selenium + Power Automate + Alteryx para extraer, procesar y reportar documentos financieros.
-
-**PDF Data Extraction & Validation Automator** — Herramienta que ahorró 67 horas/mes de trabajo manual en el área contable, desplegada en 6 semanas.
-
-**Task Management App** — Aplicación de gestión de tareas construida con React como proyecto académico.
-
-<br/>
-
-## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
+  <sub>Gracias por visitar mi perfil.</sub>
 </div>
-
-<br/>
-
-<div align="center">
-
-### 📫 Contáctame
-
-[![Gmail](https://img.shields.io/badge/-afvanegas552004@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:afvanegas552004@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas%20al%20perfil&color=1BFFFF&style=flat" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer" width="100%"/>
